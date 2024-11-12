@@ -1,0 +1,8 @@
+ipykernel==6.29.5 
+rasterio==1.3.10
+tslearn==0.6.3
+pandas==1.5.3
+numpy==1.26.4
+geopandas==0.14.4
+scikit-learn==1.5.0
+matplotlib==3.9.2 
